@@ -17,8 +17,6 @@ sid.setEducation("B.E. Information Science @ Sapthagiri College of Engineering")
 sid.setYear("4th Year");
 sid.setCurrentlyBuilding("Real-world web apps that solve real problems");
 sid.setOpenTo("Internships & Placement Opportunities");
-sid.setFunFact("I once debugged a kill switch for an hour."
-             + " The bug was one word. INACTIVE contains ACTIVE. JavaScript 💀");
 ```
 
 ---
