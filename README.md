@@ -1,3 +1,4 @@
+[PROFILE_README.md](https://github.com/user-attachments/files/29233742/PROFILE_README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Sid%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
@@ -59,6 +60,7 @@ sid.setFunFact("I once debugged a kill switch for an hour."
 | 🧮 **Abacus Arena** | Real-time math quiz platform for abacus students. 4 formula modules, timed sessions, admin kill switch, live leaderboard | HTML · CSS · JS · Supabase | [▶ Live](https://smartkidabacus.netlify.app/) |
 | 🎫 **FestBook** | College event ticketing system with QR check-in, organizer dashboard, role-based access | Java · JDBC · MySQL · Servlets | Coming Soon |
 | 🏠 **Roomsy** | PG finder platform connecting tenants and property owners | Java · JSP · MySQL · JDBC | Coming Soon |
+| 💡 **DSA Practice** | 119+ LeetCode solutions in Java covering Arrays, DP, DFS, Hash Table, String, SQL and more | Java · MySQL | [▶ View](https://github.com/siddynk/dsa-practice) |
 
 </div>
 
@@ -87,6 +89,7 @@ sid.setFunFact("I once debugged a kill switch for an hour."
 - 🔧 Debugged production issues **in real time** using browser DevTools + live database queries
 - 📱 Built **mobile-first** with zero frameworks — pure HTML, CSS, and vanilla JS
 - ☕ Comfortable across the **full Java web stack** — JDBC → Servlets → JSP → MySQL
+- 💡 Solved **119+ LeetCode problems** across Arrays, DP, DFS, Hash Table, String and SQL
 
 ---
 
