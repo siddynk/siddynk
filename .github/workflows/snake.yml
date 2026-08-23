@@ -1,0 +1,35 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    # 👇 force new Node 24 runtime
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      # 🔴 THIS WAS MISSING → checkout repo
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: siddynk
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: Commit generated files
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "Generate contribution snake"
