@@ -4,9 +4,9 @@
 <!--                    ANIMATED HEADER                      -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:D4A017,70:FFD700,100:0d1117&height=280&section=header&text=SID&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Java%20%2F%20Full-Stack%20Developer%20%7C%20Java%20Instructor%20%7C%20Wipro%20PBL&descAlignY=60&descColor=FFD700&descSize=17&stroke=FFD700&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:D4A017,70:FFD700,100:0d1117&height=280&section=header&text=SID&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Java%20%2F%20Full-Stack%20Developer&descAlignY=60&descColor=FFD700&descSize=17&stroke=FFD700&strokeWidth=2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=720&lines=Building+Full-Stack+Java+Applications;Teaching+Java+%40+Wipro+PBL+Program;Spring+Boot+%C2%B7+MySQL+%C2%B7+Thymeleaf+%C2%B7+JDBC;Coordinating+Campus+Placement+Prep;119%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=720&lines=Building+Full-Stack+Java+Applications;Spring+Boot+%C2%B7+MySQL+%C2%B7+Thymeleaf+%C2%B7+JDBC;119%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -31,9 +31,8 @@
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  Handle     →  Sid                     GitHub   →  siddynk           ║
 ║  Institute  →  Sapthagiri College of Engineering, Bengaluru          ║
-║  Role       →  Full-Stack Java Developer & Java Instructor           ║
-║  Focus      →  Spring Boot  ·  Full-Stack Java  ·  Aptitude Prep     ║
-║  Position   →  Java Instructor — Wipro PBL Training Program          ║
+║  Role       →  Full-Stack Java Developer                             ║
+║  Focus      →  Spring Boot  ·  Full-Stack Java                       ║
 ║  Status     →  ◉ ONLINE         [ ✦ 4th Year B.E. ISE ]              ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -59,52 +58,6 @@
 <img src="https://img.shields.io/github/stars/siddynk?style=flat-square&color=D4A017&labelColor=0d1117&label=Total+Stars"/>
 
 </div>
-
-<br/>
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<!-- ░░░░░░░░░░░░░ WORK EXPERIENCE ░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-### `[ 💼  WORK EXPERIENCE ]`
-
-</div>
-
-<table>
-<tr>
-<td align="center">
-
-<b>╭───────╮</b><br>
-<b>│ NOW │</b><br>
-<b>╰───────╯</b>
-
-</td>
-<td width="100%">
-
-**☕ &nbsp;Wipro PBL &nbsp;·&nbsp; Java Programming Instructor**
-
-`Bengaluru, Karnataka` &nbsp;|&nbsp; `Ongoing` &nbsp;|&nbsp; `✅ Active`
-
----
-
-🔹 Design and deliver **Java training curriculum** — from language fundamentals through OOP: encapsulation, inheritance, abstraction, interfaces
-
-🔹 Teach in **Eclipse IDE** with a strong emphasis on **simple, uncommented, humanly written code** explained line by line
-
-🔹 Coordinate **aptitude assessment preparation** for students targeting campus placements — numerical, verbal, reasoning, and coding rounds
-
-<br/>
-
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=FFD700)
-![OOP](https://img.shields.io/badge/OOP%20Concepts-0d1117?style=flat-square&logoColor=D4A017)
-![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-0d1117?style=flat-square&logo=eclipseide&logoColor=FFD700)
-![Placement Prep](https://img.shields.io/badge/Aptitude%20%26%20Placement%20Prep-0d1117?style=flat-square&logoColor=D4A017)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -430,11 +383,6 @@ engineering:
   databases:      [MySQL, Supabase]
   frontend:       [HTML, CSS, JavaScript, TypeScript, Tailwind CSS]
 
-teaching:
-  java_instructor: [Wipro PBL — fundamentals through OOP]
-  placement_prep:  [Numerical, Verbal, Reasoning, Coding rounds]
-  teaching_style:  [Simple, uncommented, humanly explained code]
-
 problem_solving:
   leetcode:        [119+ problems solved, Java-first]
   focus:            [Arrays, Strings, Recursion, Hashing, DSA fundamentals]
@@ -451,10 +399,6 @@ projects:
 <!-- ░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░ -->
 
 <div align="center">
-
-<br/>
-
-> *"Simple, readable code — explained line by line — beats clever code every time."*
 
 <br/>
 
